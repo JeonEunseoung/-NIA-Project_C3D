@@ -1,7 +1,7 @@
 # NIA-Project_C3D
 C3D 모델을 활용한 이상행동 분류 및 영상 구간 분석
-<img src="https://user-images.githubusercontent.com/71426985/164933248-29a83892-82b5-4c00-8135-b5984753ae18.png">
-<img width="500" src="https://user-images.githubusercontent.com/71426985/164933995-5dc928a3-6c28-49ca-a2e2-682004d67bea.png">
+<img width="500" src="https://user-images.githubusercontent.com/71426985/164933248-29a83892-82b5-4c00-8135-b5984753ae18.png">
+<img width="350" src="https://user-images.githubusercontent.com/71426985/164933995-5dc928a3-6c28-49ca-a2e2-682004d67bea.png">
 <h3>1. 테스트 환경 및 데이터</h3>
 <ul>
   <li>OS : Window 10</li>
